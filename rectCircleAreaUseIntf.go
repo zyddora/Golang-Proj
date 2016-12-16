@@ -5,8 +5,8 @@
 
 package main
 
-import "fmt"
-import "math"
+import ("fmt"
+ "math")
 
 func main() {
 	
